@@ -15,13 +15,13 @@ To install and run this project, follow these steps:
 
 2. ### Make sure Python is installed, then install the necessary packages:
 
-PyQt5==5.15.9, 
-yt-dlp==2024.1, 
-ffmpeg-python==0.2.0
+- PyQt5==5.15.9 
+- yt-dlp==2024.1 
+- ffmpeg-python==0.2.0
 
 3. ### Download ffmpeg:
 
-Download ffmpeg and follow the installation instructions for your operating system.
+Download **ffmpeg** and follow the installation instructions for your operating system.
 
 4. ### Run the Application
 
